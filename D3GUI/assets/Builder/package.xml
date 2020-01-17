@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6k3gt56q">
+  <resources>
+    <component id="kpok0" name="Main.xml" path="/" exported="true"/>
+    <component id="kpok1" name="ToolBarView.xml" path="/components/" exported="true"/>
+    <component id="kpok3" name="HierarchyView.xml" path="/components/" exported="true"/>
+    <component id="kpok4" name="ConsoleView.xml" path="/components/" exported="true"/>
+    <component id="ew7l5" name="LineBox.xml" path="/components/" exported="true"/>
+    <component id="ew7l6" name="MainView.xml" path="/components/" exported="true"/>
+    <component id="ew7l7" name="Test.xml" path="/components/"/>
+    <component id="ew7l8" name="Container.xml" path="/components/" exported="true"/>
+    <component id="ew7l9" name="LibraryView.xml" path="/components/" exported="true"/>
+    <component id="okgsd" name="TreeExpandButton.xml" path="/extention/" exported="true"/>
+    <image id="okgse" name="i3.png.png" path="/images/"/>
+    <image id="okgsf" name="i4.png.png" path="/images/"/>
+    <image id="okgsh" name="folder_opened.png" path="/images/"/>
+    <image id="okgsi" name="folder_closed.png" path="/images/"/>
+    <image id="okgsj" name="file.png" path="/images/" exported="true"/>
+    <component id="okgsk" name="TreeItem.xml" path="/extention/" exported="true"/>
+    <component id="okgsl" name="Component1.xml" path="/components/"/>
+  </resources>
+  <publish name="Builder"/>
+</packageDescription>

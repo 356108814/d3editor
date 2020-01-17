@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,300">
+  <displayList>
+    <list id="n3_ew7l" name="tree_asset" xy="0,0" size="180,300" overflow="scroll" defaultItem="ui://6ue812ttokgs3l" treeView="true" indent="15" clickToExpand="0">
+      <item level="0"/>
+    </list>
+  </displayList>
+</component>

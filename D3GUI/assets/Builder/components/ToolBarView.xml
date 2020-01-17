@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,26">
+  <displayList>
+    <component id="n0_kpok" name="n0" src="kpok5" fileName="Button/IconButton.xml" pkg="6ue812tt" xy="0,0"/>
+    <component id="n1_kpok" name="n1" src="kpok5" fileName="Button/IconButton.xml" pkg="6ue812tt" xy="36,0"/>
+    <component id="n3_kpok" name="n3" src="kpok5" fileName="Button/IconButton.xml" pkg="6ue812tt" xy="72,0"/>
+  </displayList>
+</component>

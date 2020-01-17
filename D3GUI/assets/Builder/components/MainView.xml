@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="940,500">
+  <displayList>
+    <component id="n0_ew7l" name="n0" src="ew7l5" fileName="components/LineBox.xml" xy="0,0" size="940,500" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <graph id="n2_x5da" name="n2" xy="0,0" size="940,500" type="rect" lineSize="0" fillColor="#ff999999">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n1_ew7l" name="container_center" src="ew7l8" fileName="components/Container.xml" xy="460,240" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

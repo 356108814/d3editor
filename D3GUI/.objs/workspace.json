@@ -1,0 +1,30 @@
+{
+	"backgroundColor": 6710886,
+	"doc.activeDoc": "ui://6k3gt56qew7l9",
+	"test.orientation": "landscape",
+	"doc.openedDocs": [
+		"ui://6k3gt56qkpok0",
+		"ui://6k3gt56qew7l9",
+		"ui://6k3gt56qew7l6",
+		"ui://6k3gt56qew7l5",
+		"ui://6k3gt56qokgsk",
+		"ui://6k3gt56qokgsd"
+	],
+	"canvasColor": 10066329,
+	"libview.expandedNodes": [
+		"6k3gt56q",
+		"/",
+		"6k3gt56q",
+		"/components/",
+		"6k3gt56q",
+		"/extention/",
+		"6k3gt56q",
+		"/images/"
+	],
+	"libview.twoColumn": false,
+	"test.device": "iPhone 8",
+	"libview.currentGroup": "",
+	"auxline1": true,
+	"auxline2": true,
+	"libview.firstColumnWidth": 314
+}

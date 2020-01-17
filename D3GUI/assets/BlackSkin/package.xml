@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6ue812tt">
+  <resources>
+    <component id="kpok0" name="Button.xml" path="/Button/" exported="true"/>
+    <image id="kpok1" name="b7.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,67,13"/>
+    <image id="kpok2" name="b5.png" path="/images/" exported="true" scale="9grid" scale9grid="3,3,68,11"/>
+    <image id="kpok3" name="b6.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,65,12"/>
+    <component id="kpok4" name="FlatIconButton.xml" path="/Button/" exported="true"/>
+    <component id="kpok5" name="IconButton.xml" path="/Button/" exported="true"/>
+    <component id="kpok6" name="AutoSizeButton.xml" path="/Button/" exported="true"/>
+    <component id="kpok7" name="LinkButton.xml" path="/Button/" exported="true"/>
+    <component id="kpok8" name="Checkbox.xml" path="/Checkbox/" exported="true"/>
+    <image id="kpok9" name="gou.png" path="/images/" exported="true" qualityOption="source"/>
+    <component id="kpoka" name="ComboBox.xml" path="/ComboBox/" exported="true"/>
+    <image id="kpokb" name="c1.png" path="/images/" exported="true" scale="9grid" scale9grid="7,3,56,12" qualityOption="source"/>
+    <image id="kpokc" name="c3.png" path="/images/" exported="true" scale="9grid" scale9grid="11,5,47,10" qualityOption="source"/>
+    <image id="kpokd" name="c2.png" path="/images/" exported="true" scale="9grid" scale9grid="5,5,52,10" qualityOption="source"/>
+    <image id="kpoke" name="c4.png" path="/images/" exported="true" scale="9grid" scale9grid="10,5,45,10" qualityOption="source"/>
+    <component id="kpokf" name="ComboBoxPopup.xml" path="/ComboBox/" exported="true"/>
+    <image id="kpokg" name="background.png" path="/images/" exported="true" scale="9grid" scale9grid="11,8,192,115" qualityOption="source"/>
+    <component id="kpokh" name="ComboBoxItem.xml" path="/ComboBox/"/>
+    <component id="kpoki" name="DropdownButton.xml" path="/ComboBox/" exported="true"/>
+    <image id="kpokj" name="j1.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokk" name="j2.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokl" name="j3.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokm" name="j4.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokn" name="button_light.png" path="/images/" exported="true" scale="9grid" scale9grid="8,8,16,16"/>
+    <image id="kpoko" name="b1.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokp" name="b2.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokq" name="b3.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpokr" name="b4.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpoks" name="p4.png" path="/images/" exported="true" scale="9grid" scale9grid="5,4,39,8" qualityOption="source"/>
+    <image id="kpokt" name="p16.png" path="/images/" exported="true" scale="9grid" scale9grid="5,4,31,8" qualityOption="source"/>
+    <image id="kpoku" name="a8(1).png" path="/images/" exported="true" scale="9grid" scale9grid="7,3,76,12" qualityOption="source"/>
+    <image id="kpokv" name="f1.png" path="/images/" exported="true" scale="9grid" scale9grid="18,36,345,205" qualityOption="source"/>
+    <image id="kpokw" name="a13.png" path="/images/" exported="true"/>
+    <image id="kpokx" name="a12.png" path="/images/" exported="true"/>
+    <image id="kpoky" name="a11.png" path="/images/" exported="true"/>
+    <image id="kpokz" name="a10.png" path="/images/" exported="true"/>
+    <image id="kpok10" name="a15.png" path="/images/" exported="true"/>
+    <image id="kpok11" name="a14.png" path="/images/" exported="true"/>
+    <image id="kpok12" name="a16.png" path="/images/" exported="true" scale="tile"/>
+    <image id="kpok13" name="a9.png" path="/images/" exported="true" scale9grid="6,5,6,10" qualityOption="source"/>
+    <image id="kpok14" name="a8.png" path="/images/" exported="true" scale9grid="3,2,6,9" qualityOption="source"/>
+    <image id="kpok15" name="p1.png" path="/images/" exported="true" scale="9grid" scale9grid="6,5,144,50" qualityOption="source"/>
+    <image id="kpok16" name="VtSeperator2.png" path="/images/" exported="true"/>
+    <image id="kpok17" name="a18.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok18" name="HzSeperator2.png" path="/images/" exported="true"/>
+    <image id="kpok19" name="a9(1).png" path="/images/" exported="true" scale="9grid" scale9grid="11,5,83,10" qualityOption="source"/>
+    <image id="kpok1a" name="p3.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1b" name="p2.png" path="/images/" exported="true" scale="9grid" scale9grid="10,4,121,4" qualityOption="source"/>
+    <image id="kpok1c" name="a3.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1d" name="a2.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1e" name="a1.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1f" name="a4.png" path="/images/" exported="true"/>
+    <image id="kpok1g" name="s10.png" path="/images/" exported="true" scale="9grid" scale9grid="4,7,6,187" qualityOption="source"/>
+    <image id="kpok1h" name="s6.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1i" name="s4.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1j" name="s5.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1k" name="s9.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1l" name="s7.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1m" name="s8.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1n" name="s1.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,5,109" qualityOption="source"/>
+    <image id="kpok1o" name="s2.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,5,111" qualityOption="source"/>
+    <image id="kpok1p" name="s3.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,5,111" qualityOption="source"/>
+    <image id="kpok1q" name="bar12.png" path="/images/" exported="true" scale="9grid" scale9grid="3,3,96,6" qualityOption="source"/>
+    <image id="kpok1r" name="bar14.png" path="/images/" exported="true" scale="9grid" scale9grid="3,4,122,5" qualityOption="source"/>
+    <image id="kpok1s" name="bar13.png" path="/images/" exported="true" scale="9grid" scale9grid="3,4,129,5" qualityOption="source"/>
+    <image id="kpok1t" name="2016-02-27_224540.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1u" name="2016-02-27_224618.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1v" name="2016-02-27_224602.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1w" name="2016-02-27_224326.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1x" name="2016-02-27_224443.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1y" name="2016-02-27_224421.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok1z" name="p8.png" path="/images/" exported="true"/>
+    <image id="kpok20" name="p9.png" path="/images/" exported="true"/>
+    <image id="kpok21" name="f7.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok22" name="f6.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok23" name="f8.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok24" name="a5.png" path="/images/" exported="true" scale="9grid" scale9grid="3,5,60,10" qualityOption="source"/>
+    <image id="kpok25" name="a7.png" path="/images/" exported="true" scale="9grid" scale9grid="6,3,38,10" qualityOption="source"/>
+    <image id="kpok26" name="a72.png" path="/images/" exported="true" scale="9grid" scale9grid="7,5,38,10" qualityOption="source"/>
+    <image id="kpok27" name="a52.png" path="/images/" exported="true" scale="9grid" scale9grid="5,5,55,10" qualityOption="source"/>
+    <image id="kpok28" name="bar15.png" path="/images/" exported="true" scale="9grid" scale9grid="4,7,71,5" qualityOption="source"/>
+    <image id="kpok29" name="2016-02-29_120446.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2a" name="2016-02-29_120502.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2b" name="i3.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2c" name="i2.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2d" name="i1.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2e" name="i5.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2f" name="i4.png" path="/images/" exported="true" qualityOption="source"/>
+    <image id="kpok2g" name="f2.png" path="/images/" exported="true" scale="9grid" scale9grid="32,36,295,85"/>
+    <image id="kpok2h" name="f5.png" path="/images/" exported="true"/>
+    <image id="kpok2i" name="f4.png" path="/images/" exported="true"/>
+    <image id="kpok2j" name="f3.png" path="/images/" exported="true"/>
+    <component id="kpok2k" name="TextInput.xml" path="/Input/" exported="true"/>
+    <component id="kpok2l" name="NumericInput.xml" path="/Input/" exported="true"/>
+    <component id="kpok2m" name="TextArea.xml" path="/Input/" exported="true"/>
+    <component id="kpok2n" name="ListItem.xml" path="/List/" exported="true"/>
+    <component id="kpok2o" name="IconListItem.xml" path="/List/" exported="true"/>
+    <component id="kpok2p" name="CheckIconListItem.xml" path="/List/" exported="true"/>
+    <component id="kpok2q" name="MenuBarItem.xml" path="/Menu/" exported="true"/>
+    <component id="kpok2r" name="PopupMenuItem.xml" path="/Menu/" exported="true"/>
+    <component id="kpok2s" name="PopupMenuItem2.xml" path="/Menu/"/>
+    <component id="kpok2t" name="PopupMenu.xml" path="/Menu/" exported="true"/>
+    <component id="kpok2u" name="ProgressBar.xml" path="/ProgressBar/" exported="true"/>
+    <component id="kpok2v" name="RadioButton.xml" path="/RadioButton/" exported="true"/>
+    <component id="kpok2w" name="ScrollBar_VT.xml" path="/ScrollBar/" exported="true"/>
+    <component id="kpok2x" name="ScrollUpButton.xml" path="/ScrollBar/"/>
+    <component id="kpok2y" name="ScrollDownButton.xml" path="/ScrollBar/"/>
+    <component id="kpok2z" name="GripButton_VT.xml" path="/ScrollBar/"/>
+    <component id="kpok30" name="ScrollBar_HZ.xml" path="/ScrollBar/" exported="true"/>
+    <component id="kpok31" name="GripButton_HZ.xml" path="/ScrollBar/"/>
+    <component id="kpok32" name="ScrollRightButton.xml" path="/ScrollBar/"/>
+    <component id="kpok33" name="ScrollLeftButton.xml" path="/ScrollBar/"/>
+    <component id="kpok34" name="TabCloseButton.xml" path="/Tab/"/>
+    <component id="kpok35" name="ClosableTabButton.xml" path="/Tab/" exported="true"/>
+    <component id="kpok36" name="TabButton.xml" path="/Tab/" exported="true"/>
+    <component id="kpok37" name="TabIconButton.xml" path="/Tab/" exported="true"/>
+    <component id="kpok38" name="ClosableTabIconButton.xml" path="/Tab/" exported="true"/>
+    <component id="kpok39" name="FileTabButton.xml" path="/Tab/" exported="true"/>
+    <component id="kpok3a" name="TitleBar.xml" path="/TitleBar/" exported="true"/>
+    <component id="kpok3b" name="TooltipsWin.xml" path="/Tooltips/" exported="true"/>
+    <component id="kpok3c" name="TreeItem.xml" path="/Tree/" exported="true"/>
+    <component id="kpok3d" name="TreeExpandButton.xml" path="/Tree/" exported="true"/>
+    <component id="kpok3e" name="EditableTreeItem.xml" path="/Tree/" exported="true"/>
+    <component id="kpok3f" name="WindowFrame.xml" path="/Window/" exported="true"/>
+    <component id="kpok3g" name="WindowCloseButton.xml" path="/Window/" exported="true"/>
+    <image id="kpok3h" name="bg1.png" path="/images/" exported="true" scale="9grid" scale9grid="5,5,10,10"/>
+    <image id="kpok3i" name="bg0.png" path="/images/" exported="true" scale="9grid" scale9grid="5,5,10,10"/>
+    <image id="ew7l3j" name="hsplit.png" path="/images/" exported="true"/>
+    <image id="ew7l3k" name="vsplit.png" path="/images/" exported="true"/>
+    <image id="okgs3m" name="file.png" path="/Editor/" exported="true"/>
+    <image id="okgs3n" name="folder_closed.png" path="/Editor/" exported="true"/>
+    <image id="okgs3o" name="folder_opened.png" path="/Editor/" exported="true"/>
+    <image id="okgs3p" name="i3.png.png" path="/Editor/" exported="true"/>
+    <image id="okgs3q" name="i4.png.png" path="/Editor/" exported="true"/>
+  </resources>
+  <publish name="BlackSkin"/>
+</packageDescription>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_kpok" name="n0" src="kpok3i" fileName="images/bg0.png" pkg="6ue812tt" xy="0,0" size="1280,720">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n8_ew7l" name="main" src="ew7l6" fileName="components/MainView.xml" xy="200,50" size="940,500">
+      <relation target="n7_ew7l" sidePair="left-right"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="n10_ew7l" sidePair="right-left"/>
+      <relation target="n11_ew7l" sidePair="bottom-top"/>
+    </component>
+    <component id="n4_kpok" name="top" src="kpok1" fileName="components/ToolBarView.xml" xy="10,10">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n7_ew7l" name="left" src="ew7l9" fileName="components/LibraryView.xml" xy="10,50" size="180,657">
+      <relation target="" sidePair="height-height,left-left,top-top,bottom-bottom"/>
+      <relation target="n8_ew7l" sidePair="rightext-left"/>
+    </component>
+    <component id="n10_ew7l" name="right" src="ew7l5" fileName="components/LineBox.xml" xy="1149,50" size="121,654">
+      <relation target="" sidePair="height-height,right-right,top-top,bottom-bottom"/>
+      <relation target="n8_ew7l" sidePair="leftext-right"/>
+    </component>
+    <component id="n11_ew7l" name="bottom" src="ew7l5" fileName="components/LineBox.xml" xy="200,557" size="940,149">
+      <relation target="n7_ew7l" sidePair="left-right"/>
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+      <relation target="n10_ew7l" sidePair="right-left"/>
+      <relation target="n8_ew7l" sidePair="topext-bottom"/>
+    </component>
+  </displayList>
+</component>
