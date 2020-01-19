@@ -9,10 +9,10 @@ var PackName = {
 }
 
 var ActionName = {
-    Idle: 'Idle',       //待机
-    Run: 'Run',        //跑步
-    Attack: 'Attack',     //攻击
-    Die: 'Die',        //死亡
-    Show: 'Show',       //出场
-    Hurt: 'Hurt',       //受击
+    Idle: 'idle',       //待机
+    Run: 'run',        //跑步
+    Attack: 'attack',     //攻击
+    Die: 'die',        //死亡
+    Show: 'show',       //出场
+    Hurt: 'hurt',       //受击
 }

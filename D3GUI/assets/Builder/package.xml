@@ -18,6 +18,7 @@
     <image id="okgsj" name="file.png" path="/images/" exported="true"/>
     <component id="okgsk" name="TreeItem.xml" path="/extention/" exported="true"/>
     <component id="okgsl" name="Component1.xml" path="/components/"/>
+    <component id="iln6m" name="ActionItem.xml" path="/extention/" exported="true"/>
   </resources>
   <publish name="Builder"/>
 </packageDescription>

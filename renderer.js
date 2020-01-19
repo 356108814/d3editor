@@ -19,9 +19,11 @@ function init() {
     stage = new Stage();
 }
 
+/**在proload.js中加载完资源后调用 */
 function onPackageLoaded() {
     //注册自定义组件
     regExtension(PackName.Builder, 'MainView', MainView);
+    regExtension(PackName.Builder, 'LibraryView', LibraryView);
     regExtension(PackName.Builder, 'LibraryView', LibraryView);
 
     editor = new Editor();
